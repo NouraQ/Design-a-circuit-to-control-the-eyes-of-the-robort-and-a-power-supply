@@ -1,1 +1,1 @@
-# Design-a-circuit-to-control-the-eyes-of-the-robort-and-a-power-supply
+# Design-a-circuit-to-control-the-eyes-of-the-robot-and-a-power-supply
